@@ -1,0 +1,20 @@
+{
+  "name": "dev-status",
+  "version": "0.0.1",
+  "authors": [
+    "Jakub Matejka <jakub@keboola.com>"
+  ],
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "dev-status.keboola.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "kbc-bootstrap": "git://github.com/keboola/kbc-bootstrap#~0.1.4"
+  }
+}
